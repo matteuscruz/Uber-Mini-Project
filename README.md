@@ -2,5 +2,5 @@
 
 Dataset (Kaggle): 
 
-Main Code (Jupyter Notebook): 
-Misc Code (Jupyter Notebook): 
+Main Code (Jupyter Notebook): Consumption.ipynb \\
+Misc Code (Jupyter Notebook): Longitude&Latitude.ipynb \\
